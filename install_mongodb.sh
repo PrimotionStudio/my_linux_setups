@@ -1,4 +1,4 @@
-#!/usr/bin/env zsh
+#!/usr/bin/bash
 # -*- coding: utf-8 -*-
 # @Author:              Prime
 # @Date:                2023-06-09 03:22
